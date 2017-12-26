@@ -13,4 +13,10 @@ Neural Network learns XOR function | Hidden Layer Output Visualization |
 alt="Neural Network learns XOR function | Hidden Layer Output Visualization |" width="320" height="240" border="10" /></a>
 
 
+# REFERENCES/FURTHER READING
+
+www.deeplearningbook.org | Chapter 6|Page 167(Learning XOR)
+
+
+
 
