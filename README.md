@@ -9,7 +9,7 @@ It is recommended you download the notebook.ipynb file and open it using Jupyter
 # VIDEO
 Neural Network learns XOR function | Hidden Layer Output Visualization |
 
-<a href="https://www.youtube.com/watch?v=3IJICfd_17A" target="_blank"><img src="http://img.youtube.com/vi/3IJICfd_17A/0.jpg" 
+<a href="https://youtu.be/zRaiw630TbY" target="_blank"><img src="http://img.youtube.com/vi/zRaiw630TbY/0.jpg" 
 alt="Neural Network learns XOR function | Hidden Layer Output Visualization |" width="320" height="240" border="10" /></a>
 
 
